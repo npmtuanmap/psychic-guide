@@ -133,3 +133,6 @@ dist
 !.yarn/versions
 
 **/node_modules
+
+.github
+.yarn
