@@ -1,6 +1,6 @@
 {
   "name": "@npmtuanmap/psychic-guide",
-  "version": "2.5.48",
+  "version": "2.5.49",
   "description": " ",
   "main": "index.js",
   "author": "tuan149",
@@ -128,5 +128,5 @@
   "bugs": {
     "url": "https://github.com/npmtuanmap/psychic-guide/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
